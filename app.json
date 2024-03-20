@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firebase-chat",
-    "slug": "firebase-chat",
+    "name": "ETAC",
+    "slug": "ETAC",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.etac.etacapp"
     },
     "android": {
       "adaptiveIcon": {
@@ -24,6 +25,7 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "package" : "com.etac.etacapp",
     "web": {
       "bundler": "metro",
       "output": "static",
