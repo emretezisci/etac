@@ -10,12 +10,13 @@ import {getFirestore, collection} from 'firebase/firestore'
 // 3. create a web app and copy the firebseConfigs below 
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyANa4RecQvF-t_C9ZBlHDxsHTRjJjUP-9A",
+  authDomain: "etacapp.firebaseapp.com",
+  projectId: "etacapp",
+  storageBucket: "etacapp.appspot.com",
+  messagingSenderId: "73658630088",
+  appId: "1:73658630088:web:76d8b426ca2ff397934afd",
+  measurementId: "G-LDPDYSBRYP"
 };
 
 // Initialize Firebase

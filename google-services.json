@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73658630088",
+    "project_id": "etacapp",
+    "storage_bucket": "etacapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73658630088:android:e28d08a80dca344a934afd",
+        "android_client_info": {
+          "package_name": "com.etac.etacapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCvQVci1iA3cOPKgZjE2J9rHzbqRNk4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
